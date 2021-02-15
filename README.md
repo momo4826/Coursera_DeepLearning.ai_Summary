@@ -12,7 +12,7 @@ This specialization contains five [courses](https://www.coursera.org/programs/70
 
 The notebooks of programming assignments in the courses are uploaded. In case you don't have time for the whole courses, doing the assignments following the notebooks will also help you break into AI and know some practical tips.
 
-## About this Specialization(five courses) from official program page
+## About this Specialization from official program page
 > If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning. 
 
 > In five courses, you will learn the foundations of Deep Learning, understand how to build neural networks, and learn how to lead successful machine learning projects. You will learn about Convolutional networks, RNNs, LSTM, Adam, Dropout, BatchNorm, Xavier/He initialization, and more. You will work on case studies from healthcare, autonomous driving, sign language reading, music generation, and natural language processing. You will master not only the theory, but also see how it is applied in industry. You will practice all these ideas in Python and in TensorFlow, which we will teach. 
@@ -24,8 +24,9 @@ The notebooks of programming assignments in the courses are uploaded. In case yo
 > We will help you master Deep Learning, understand how to apply it, and build a career in AI. 
 
 ## Useful resource
-notes in detail(Chinese):[https://baozoulin.gitbook.io/neural-networks-and-deep-learning/]
-notes in detail(English):[https://github.com/mbadry1/DeepLearning.ai-Summary]
+notes in detail(Chinese): https://baozoulin.gitbook.io/neural-networks-and-deep-learning/
+
+notes in detail(English): https://github.com/mbadry1/DeepLearning.ai-Summary
 
 ## Certificates I've got
 ![course1](https://github.com/momo4826/Coursera_DeepLearning.ai_Summary/blob/main/certificates/Screen%20Shot%202021-02-15%20at%209.58.59%20PM.png)
