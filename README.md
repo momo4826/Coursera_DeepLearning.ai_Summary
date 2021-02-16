@@ -24,9 +24,11 @@ The notebooks of programming assignments in the courses are uploaded. In case yo
 > We will help you master Deep Learning, understand how to apply it, and build a career in AI. 
 
 ## Useful resource
-notes in detail(Chinese): https://baozoulin.gitbook.io/neural-networks-and-deep-learning/
+notes(Chinese): https://baozoulin.gitbook.io/neural-networks-and-deep-learning/
 
-notes in detail(English): https://github.com/mbadry1/DeepLearning.ai-Summary
+notes(Chinese): https://imshuai.com/tags.html#deeplearning-ai-notes
+
+notes(English): https://github.com/mbadry1/DeepLearning.ai-Summary
 
 ## Certificates I've got
 ![course1](https://github.com/momo4826/Coursera_DeepLearning.ai_Summary/blob/main/certificates/Screen%20Shot%202021-02-15%20at%209.58.59%20PM.png)
