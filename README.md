@@ -27,6 +27,7 @@ The notebooks of programming assignments in the courses are uploaded. In case yo
 notes(Chinese): https://baozoulin.gitbook.io/neural-networks-and-deep-learning/
 
 notes(Chinese): https://imshuai.com/tags.html#deeplearning-ai-notes
+notes(Chinese): https://www.cnblogs.com/hezhiyao/tag/%E3%80%90AI%E7%AE%97%E6%B3%95%E8%BF%9B%E9%98%B6%20%E2%97%8F%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%20%E2%97%8F%20AndrewNg%20%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0%E3%80%91/
 
 notes(English): https://github.com/mbadry1/DeepLearning.ai-Summary
 
