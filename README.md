@@ -32,3 +32,5 @@ notes in detail(English): https://github.com/mbadry1/DeepLearning.ai-Summary
 ![course1](https://github.com/momo4826/Coursera_DeepLearning.ai_Summary/blob/main/certificates/Screen%20Shot%202021-02-15%20at%209.58.59%20PM.png)
 
 ![course2](https://github.com/momo4826/Coursera_DeepLearning.ai_Summary/blob/main/certificates/Screen%20Shot%202021-02-15%20at%209.59.40%20PM.png)
+
+![course3](https://github.com/momo4826/Coursera_DeepLearning.ai_Summary/blob/main/certificates/Screen%20Shot%202021-02-16%20at%2010.18.05%20AM.png)
