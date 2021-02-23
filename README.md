@@ -24,22 +24,22 @@ The notebooks of programming assignments in the courses are uploaded. In case yo
 > We will help you master Deep Learning, understand how to apply it, and build a career in AI. 
 
 ## Useful resource
-![notes1(Chinese)](https://baozoulin.gitbook.io/neural-networks-and-deep-learning/)
+[notes1(Chinese)](https://baozoulin.gitbook.io/neural-networks-and-deep-learning/)
 
-![notes2(Chinese)](https://imshuai.com/tags.html#deeplearning-ai-notes)
+[notes2(Chinese)](https://imshuai.com/tags.html#deeplearning-ai-notes)
 
-![notes3(Chinese)](https://www.cnblogs.com/hezhiyao/tag/%E3%80%90AI%E7%AE%97%E6%B3%95%E8%BF%9B%E9%98%B6%20%E2%97%8F%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%20%E2%97%8F%20AndrewNg%20%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0%E3%80%91/)
+[notes3(Chinese)](https://www.cnblogs.com/hezhiyao/tag/%E3%80%90AI%E7%AE%97%E6%B3%95%E8%BF%9B%E9%98%B6%20%E2%97%8F%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%20%E2%97%8F%20AndrewNg%20%E8%AF%BE%E7%A8%8B%E7%AC%94%E8%AE%B0%E3%80%91/)
 
-![notes(English)](https://github.com/mbadry1/DeepLearning.ai-Summary)
+[notes(English)](https://github.com/mbadry1/DeepLearning.ai-Summary)
 
 ## Relevant Skills
-![Keras for beginners](https://github.com/momo4826/keras_beginners)
+[Keras for beginners](https://github.com/momo4826/keras_beginners)
 
-![Improved version of Jezz Generator exercise in the specialization](https://github.com/jisungk/deepjazz)
+[Improved version of Jezz Generator exercise in the specialization](https://github.com/jisungk/deepjazz)
 
-![Improved version of Shakespeare Poem Generator](https://github.com/burliEnterprises/tensorflow-shakespeare-poem-generator)
+[Improved version of Shakespeare Poem Generator](https://github.com/burliEnterprises/tensorflow-shakespeare-poem-generator)
 
-![Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt)
+[Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt)
 
 ## Certificates I've got
 ![course1](https://github.com/momo4826/Coursera_DeepLearning.ai_Summary/blob/main/certificates/Screen%20Shot%202021-02-15%20at%209.58.59%20PM.png)
@@ -48,4 +48,4 @@ The notebooks of programming assignments in the courses are uploaded. In case yo
 
 ![course3](https://github.com/momo4826/Coursera_DeepLearning.ai_Summary/blob/main/certificates/Screen%20Shot%202021-02-16%20at%2010.18.05%20AM.png)
 
-![course5]()
+![course5](https://github.com/momo4826/Coursera_DeepLearning.ai_Summary/blob/main/certificates/Screen%20Shot%202021-02-23%20at%204.58.18%20PM.png)
