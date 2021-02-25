@@ -42,10 +42,12 @@ The notebooks of programming assignments in the courses are uploaded. In case yo
 [Neural Machine Translation (seq2seq) Tutorial](https://github.com/tensorflow/nmt)
 
 ## Certificates I've got
-![course1](https://github.com/momo4826/Coursera_DeepLearning.ai_Summary/blob/main/certificates/Screen%20Shot%202021-02-15%20at%209.58.59%20PM.png)
+![course1](https://github.com/momo4826/Coursera_DeepLearning.ai_Summary/blob/main/certificates/1.png)
 
-![course2](https://github.com/momo4826/Coursera_DeepLearning.ai_Summary/blob/main/certificates/Screen%20Shot%202021-02-15%20at%209.59.40%20PM.png)
+![course2](https://github.com/momo4826/Coursera_DeepLearning.ai_Summary/blob/main/certificates/2.png)
 
-![course3](https://github.com/momo4826/Coursera_DeepLearning.ai_Summary/blob/main/certificates/Screen%20Shot%202021-02-16%20at%2010.18.05%20AM.png)
+![course3](https://github.com/momo4826/Coursera_DeepLearning.ai_Summary/blob/main/certificates/3.png)
 
-![course5](https://github.com/momo4826/Coursera_DeepLearning.ai_Summary/blob/main/certificates/Screen%20Shot%202021-02-23%20at%204.58.18%20PM.png)
+![course4](https://github.com/momo4826/Coursera_DeepLearning.ai_Summary/blob/main/certificates/4.png)
+
+![course5](https://github.com/momo4826/Coursera_DeepLearning.ai_Summary/blob/main/certificates/5.png)
